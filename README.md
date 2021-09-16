@@ -8,7 +8,11 @@
 ### Autoencoder
 <p>Firstly, We implemented autoencoder to encode DNA sequences and VAE to encode images from confocal microscopes.</p>
 
- ![image](https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/Autoencoder.svg)
+<div align="left">
+  
+<img src="https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/Autoencoder.svg" height="300" width="600" >
+  
+</div>
 
 ### Machine Learning
 ## Future Plan
