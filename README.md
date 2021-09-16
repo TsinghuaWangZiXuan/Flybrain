@@ -6,13 +6,24 @@
 
 ## Our Work
 ### Autoencoder
-<p>Firstly, We implemented autoencoder to encode DNA sequences and VAE to encode images from confocal microscopes.</p>
+<p>Firstly, We implemented an autoencoder to encode DNA sequences. We aimed to investigate the distribution of DNA segments and to examine whether there are certain rules in distribution. The result of this model may lay a foundation for further analysis. The following figure is the structure of our autoencoder.</p>
 
 <div align="left">
   
-<img src="https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/Autoencoder.svg" height="300" width="600" >
+<img src="https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/Autoencoder.png" height="300" width="600" >
+  
+</div>
+
+### Variational Autoencoder(VAE)
+
+<p>Next, we also implemented a similar architecture to process images. To boost the performance, we adopted a variational encoder in our model. The following figure is the structure of our VAE. </p>
+
+<div align="left">
+  
+<img src="https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/VAE.png" height="110" width="400" >
   
 </div>
 
 ### Machine Learning
 ## Future Plan
+## References
