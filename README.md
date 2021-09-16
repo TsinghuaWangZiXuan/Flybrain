@@ -25,7 +25,7 @@
 </div>
 
 ### Machine Learning
-<p>After revealing the distribution of latent space, we then tried several traditional algorithms to predict the expression patterns from differen enhances.</p>
+<p>After revealing the distribution of latent space, we then tried several traditional algorithms to predict the expression patterns from different enhances.</p>
 
 <div align="left">
   
