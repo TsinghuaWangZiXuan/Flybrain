@@ -10,7 +10,7 @@
 
 <div align="left">
   
-<img src="https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/Autoencoder.png" height="300" width="600" >
+<img src="https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/Autoencoder.png" height="300" width="400" >
   
 </div>
 
@@ -25,5 +25,7 @@
 </div>
 
 ### Machine Learning
+<p>After we revealed the distribution of latent space, we then tried </p>
+
 ## Future Plan
 ## References
