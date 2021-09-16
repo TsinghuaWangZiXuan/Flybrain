@@ -6,7 +6,7 @@
 
 ## Our Work
 ### Autoencoder
-<p>Firstly, We implemented autoencoder to encode DNA sequences and VAE to encode images from confocal microscopes. The codes of this parts can be found in </p>
+<p>Firstly, We implemented autoencoder to encode DNA sequences and VAE to encode images from confocal microscopes.</p>
 
 ### Machine Learning
 ## Future Plan
