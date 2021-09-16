@@ -25,7 +25,13 @@
 </div>
 
 ### Machine Learning
-<p>After we revealed the distribution of latent space, we then tried </p>
+<p>After revealing the distribution of latent space, we then tried several traditional algorithms to predict the expression patterns from differen enhances.</p>
+
+<div align="left">
+  
+<img src="https://github.com/TsinghuaWangZiXuan/Flybrain/blob/main/Images/Traditional%20Machine%20Learnig.png" height="360" width="400" >
+  
+</div>
 
 ## Future Plan
 ## References
